@@ -3,3 +3,7 @@
 body {
   padding-top: 50px;
 }
+
+.panel-heading {
+                cursor: pointer;
+            }
